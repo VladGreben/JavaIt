@@ -2,7 +2,7 @@ package Sharaga.FirstLab;
 
 import java.util.Random;
 
-public class First {
+public class FoutthLab {
 
     private static int max;
     private static int min;
